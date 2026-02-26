@@ -14,6 +14,14 @@ html_template = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Autonomous Data Science Workflow</title>
+    
+    <!-- Open Graph Meta Tags for LinkedIn/Twitter -->
+    <meta property="og:title" content="Published Research: Autonomous Multi-Agent Workflows">
+    <meta property="og:description" content="Enterprise-grade Python orchestrator utilizing 3 LLM personas to mathematically solve tabular datasets, reducing regression errors by 32%.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/sidthebuilder/AutoML-Agent-Orchestrator/main/preview.png">
+    <meta property="og:url" content="https://sidthebuilder.github.io/AutoML-Agent-Orchestrator/">
+    <meta property="og:type" content="article">
+
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         body {
